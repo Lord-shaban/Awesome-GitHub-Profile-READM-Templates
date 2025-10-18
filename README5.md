@@ -1,4 +1,3 @@
-```markdown
 <!-- HERO SECTION WITH CYBER THEME -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=280&section=header&text=AHMED%20SHA'BAN&fontSize=90&fontAlignY=35&desc=〔%20Software%20Architect%20◉%20AI%20Pioneer%20◉%20Tech%20Innovator%20〕&descSize=20&descAlignY=55&animation=scaleIn&theme=dark" />
@@ -45,7 +44,7 @@
     </td>
     <td width="60%">
 
-```javascript
+
 const AhmedShaban = {
     identity: {
         name: "Ahmed Sha'ban",
@@ -84,7 +83,7 @@ const AhmedShaban = {
     
     funFact: "I debug in my dreams and wake up with solutions! 💭"
 };
-```
+
 
   </td>
   </tr>
@@ -309,7 +308,6 @@ const AhmedShaban = {
 
 <div align="center">
 
-```text
 💻 Weekly Coding Stats
 
 Flutter         ████████████████░░░░   78.2%  (25 hrs 14 mins)
@@ -329,7 +327,7 @@ CloudFlow       ██████░░░░░░░░░░░░░░   2
 NeuralChat      ████░░░░░░░░░░░░░░░░   19.1%
 
 ⏰ Timezone: Africa/Cairo (UTC+2)
-```
+
 
 </div>
 
@@ -589,4 +587,4 @@ NeuralChat      ████░░░░░░░░░░░░░░░░   1
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%">
 </div>
-```
+
