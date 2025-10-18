@@ -840,7 +840,7 @@ existence.quantumLoop(); // Running infinitely...
 
 <div align="center">
 
-python
+```python
 fun_facts = {
     "🧠": "I once debugged code in my sleep and woke up with the solution",
     "☕": "My blood type is Coffee++",
@@ -862,7 +862,7 @@ fun_facts = {
 for fact in fun_facts.values():
     print(f"FACT: {fact}")
     time.sleep(quantum_moment)  # Time is relative
-
+```
 
 </div>
 
