@@ -1,449 +1,322 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Awesome GitHub Profile README Templates
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> **GitHub Profile README Templates** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=GitHub%20Profile%20Templates&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=12+%20Ready-to-Use%20Professional%20Templates&descSize=20&descAlignY=55" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=12%2B+Professional+README+Templates;Transform+Your+GitHub+Profile;Copy+→+Paste+→+Customize;Stand+Out+From+The+Crowd!" alt="Typing SVG" />
   
-  <p align="center">
-    <a href="https://github.com/Lord-shaban/GitHub-Profile-README-Templates/stargazers">
-      <img src="https://img.shields.io/github/stars/Lord-shaban/GitHub-Profile-README-Templates?style=flat-square&logo=github&color=yellow" alt="Stars">
-    </a>
-    <a href="https://github.com/Lord-shaban/GitHub-Profile-README-Templates/network/members">
-      <img src="https://img.shields.io/github/forks/Lord-shaban/GitHub-Profile-README-Templates?style=flat-square&logo=git&color=blue" alt="Forks">
-    </a>
-    <a href="https://github.com/Lord-shaban/GitHub-Profile-README-Templates/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=open-source-initiative" alt="License">
-    </a>
-    <a href="https://github.com/Lord-shaban/GitHub-Profile-README-Templates">
-      <img src="https://img.shields.io/badge/Templates-12+-purple?style=flat-square&logo=github" alt="Templates">
-    </a>
-  </p>
-
-  <p align="center">
-    <b>Transform your GitHub profile from ordinary to extraordinary in under 60 seconds!</b>
-  </p>
+  <br/>
   
-  <h3>
-    <a href="#-quick-start">Quick Start</a> •
-    <a href="#-templates-gallery">Templates</a> •
-    <a href="#-how-to-use">How to Use</a> •
-    <a href="#-tools">Tools</a> •
-    <a href="#-support">Support</a>
-  </h3>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  [![Stars](https://img.shields.io/github/stars/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&logo=starship&color=yellow&logoColor=white)](https://github.com/Lord-shaban/awesome-profile-readme-templates/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&logo=git&color=blue&logoColor=white)](https://github.com/Lord-shaban/awesome-profile-readme-templates/network/members)
+  [![Issues](https://img.shields.io/github/issues/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&logo=codeigniter&color=red&logoColor=white)](https://github.com/Lord-shaban/awesome-profile-readme-templates/issues)
+  [![License](https://img.shields.io/github/license/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&logo=opensourceinitiative&color=green&logoColor=white)](LICENSE)
   
 </div>
 
-## 🎯 What is This?
+---
+
+## 🎯 **What is This?**
 
 <table>
-  <tr>
-    <td width="60%">
-      <h3>📦 A Complete Collection of GitHub Profile Templates</h3>
-      <p>This repository contains <b>12+ professionally designed</b> GitHub Profile README templates that are:</p>
-      <ul>
-        <li>✅ Ready to use immediately</li>
-        <li>✅ Easy to customize</li>
-        <li>✅ Mobile responsive</li>
-        <li>✅ SEO optimized</li>
-        <li>✅ Regularly updated</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github.com/images/modules/profile/profile-readme-header.png" alt="Profile Preview">
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+A collection of **beautiful, ready-to-use GitHub Profile README templates** that will make your profile stand out! 
+
+Simply **copy**, **paste**, and **customize** to create your perfect GitHub profile in minutes.
+
+✅ **No coding required**  
+✅ **Beginner friendly**  
+✅ **Professional designs**  
+✅ **100% Free**
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+
+</td>
+</tr>
 </table>
 
-## ⚡ Quick Start
+---
+
+## ⚡ **Quick Start Guide**
 
 <div align="center">
-  
-### 🚀 **Get Your Awesome Profile in 3 Simple Steps**
+
+### **Get Your Awesome Profile in 3 Simple Steps!**
+
+| Step | Action | Time |
+|:---:|:---|:---:|
+| **1️⃣** | Create a repository named **`your-username/your-username`** | 30 sec |
+| **2️⃣** | Choose a template from below and copy its content | 20 sec |
+| **3️⃣** | Paste in your `README.md` and customize | 2 min |
+
+**Total Time: Less than 3 minutes! ⏱️**
 
 </div>
 
-```mermaid
-flowchart LR
-    A[📋 Choose Template] --> B[✏️ Copy & Edit]
-    B --> C[🚀 Deploy]
-    
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#fff
+---
+
+## 📂 **Available Templates**
+
+<div align="center">
+
+### **Choose Your Perfect Template:**
+
+</div>
+
+| # | Template | Style | Best For | Difficulty | Preview |
+|:---:|:---|:---:|:---:|:---:|:---:|
+| 1️⃣ | **[Minimal Pro](README1.md)** | 🎯 Clean | Everyone | ⭐ | [View →](README1.md) |
+| 2️⃣ | **[Developer Focus](README2.md)** | 💻 Technical | Developers | ⭐⭐ | [View →](README2.md) |
+| 3️⃣ | **[Creative Designer](README3.md)** | 🎨 Artistic | Designers | ⭐⭐ | [View →](README3.md) |
+| 4️⃣ | **[Full Stack Hero](README4.md)** | 🚀 Complete | Full Stack | ⭐⭐⭐ | [View →](README4.md) |
+| 5️⃣ | **[Data Scientist](README5.md)** | 📊 Analytical | Data/ML | ⭐⭐⭐ | [View →](README5.md) |
+| 6️⃣ | **[Student Portfolio](README6.md)** | 🎓 Academic | Students | ⭐ | [View →](README6.md) |
+| 7️⃣ | **[Open Source](README7.md)** | 🌟 Contributor | OSS Devs | ⭐⭐ | [View →](README7.md) |
+| 8️⃣ | **[Tech Enthusiast](README8.md)** | 🔥 Modern | Tech Lovers | ⭐⭐ | [View →](README8.md) |
+| 9️⃣ | **[Game Developer](README9.md)** | 🎮 Gaming | Game Devs | ⭐⭐⭐ | [View →](README9.md) |
+| 🔟 | **[Mobile Dev](README10.md)** | 📱 Apps | App Devs | ⭐⭐ | [View →](README10.md) |
+| 1️⃣1️⃣ | **[DevOps Pro](README11.md)** | ⚙️ Cloud | DevOps | ⭐⭐⭐ | [View →](README11.md) |
+| 1️⃣2️⃣ | **[AI Engineer](README12.md)** | 🤖 AI/ML | AI Engineers | ⭐⭐⭐⭐ | [View →](README12.md) |
+
+---
+
+## 🎨 **Template Preview**
+
+<details>
+<summary><b>📸 Click to see template screenshots</b></summary>
+
+### **Example: Developer Focus Template**
+
+```markdown
+# Hi there 👋 I'm [Your Name]
+
+## 🚀 About Me
+- 🔭 Working on: **Your current project**
+- 🌱 Learning: **New technologies**
+- 💬 Ask me about: **Your expertise**
+- 📫 Reach me: **your.email@example.com**
+
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+
+## 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ```
 
-### Step-by-Step Guide:
-
-<details open>
-<summary><b>📋 Step 1: Choose Your Template</b></summary>
-
-Browse through our [Templates Gallery](#-templates-gallery) and pick the one that matches your style.
-
 </details>
 
-<details open>
-<summary><b>✏️ Step 2: Copy & Customize</b></summary>
+---
 
-1. Click on your chosen template file (README1.md - README12.md)
-2. Click the "Raw" button
-3. Copy all the content
-4. Replace placeholder text with your information
-
-</details>
-
-<details open>
-<summary><b>🚀 Step 3: Deploy to Your Profile</b></summary>
-
-1. Create a new repository named **exactly** as your GitHub username
-2. Create a `README.md` file
-3. Paste your customized template
-4. Commit and push!
-
-</details>
-
-## 🎨 Templates Gallery
-
-<div align="center">
-  
-### **Choose Your Perfect Template**
-
-</div>
-
-| Preview | Template | Description | Best For | Features |
-|---------|----------|-------------|----------|----------|
-| <img src="https://via.placeholder.com/100x60/1a1b27/ffffff?text=Clean" width="100"> | [**README1.md**](./README1.md)<br>**Minimal Clean** | Simple and elegant design with essential information | Minimalists | `Stats` `Skills` `Contact` |
-| <img src="https://via.placeholder.com/100x60/2d3748/ffffff?text=Pro" width="100"> | [**README2.md**](./README2.md)<br>**Professional** | Corporate-ready profile with comprehensive sections | Senior Devs | `Portfolio` `Experience` `Skills Matrix` |
-| <img src="https://via.placeholder.com/100x60/ff6b6b/ffffff?text=Creative" width="100"> | [**README3.md**](./README3.md)<br>**Creative** | Colorful and animated design | Designers | `Animations` `Colors` `Fun Facts` |
-| <img src="https://via.placeholder.com/100x60/4ecdc4/ffffff?text=Data" width="100"> | [**README4.md**](./README4.md)<br>**Data Science** | Data-focused with visualizations | Data Scientists | `Charts` `Research` `Publications` |
-| <img src="https://via.placeholder.com/100x60/45b7d1/ffffff?text=Full" width="100"> | [**README5.md**](./README5.md)<br>**Full-Stack** | Complete tech stack showcase | Full-Stack Devs | `Frontend` `Backend` `Databases` |
-| <img src="https://via.placeholder.com/100x60/96ceb4/ffffff?text=Game" width="100"> | [**README6.md**](./README6.md)<br>**Gaming** | Gaming-themed profile | Game Devs | `Game Stats` `Achievements` `Fun` |
-| <img src="https://via.placeholder.com/100x60/ffeaa7/ffffff?text=OSS" width="100"> | [**README7.md**](./README7.md)<br>**Open Source** | Contribution-focused | Contributors | `PRs` `Issues` `Projects` |
-| <img src="https://via.placeholder.com/100x60/dfe6e9/ffffff?text=DevOps" width="100"> | [**README8.md**](./README8.md)<br>**DevOps** | Infrastructure and tools | DevOps Engineers | `Cloud` `CI/CD` `Monitoring` |
-| <img src="https://via.placeholder.com/100x60/74b9ff/ffffff?text=Mobile" width="100"> | [**README9.md**](./README9.md)<br>**Mobile Dev** | App development focused | Mobile Devs | `iOS` `Android` `Flutter` |
-| <img src="https://via.placeholder.com/100x60/a29bfe/ffffff?text=AI" width="100"> | [**README10.md**](./README10.md)<br>**AI/ML** | Machine learning themed | ML Engineers | `Models` `Research` `Kaggle` |
-| <img src="https://via.placeholder.com/100x60/fd79a8/ffffff?text=Security" width="100"> | [**README11.md**](./README11.md)<br>**Security** | Cybersecurity focused | Security Experts | `Tools` `Certs` `CVEs` |
-| <img src="https://via.placeholder.com/100x60/e17055/ffffff?text=Student" width="100"> | [**README12.md**](./README12.md)<br>**Student** | Perfect for students | Students | `Learning` `Projects` `Goals` |
-
-## 🎯 How to Use
-
-<div align="center">
-  
-### **Two Methods: Choose What Works for You**
-
-</div>
+## 🛠️ **How to Use Templates**
 
 <table>
-  <tr>
-    <th width="50%">🏃 Method 1: Quick Copy</th>
-    <th width="50%">👨‍💻 Method 2: Git Clone</th>
-  </tr>
-  <tr>
-    <td>
+<tr>
+<td>
 
-**For Beginners - No Git Required!**
+### **Option 1: Quick Copy-Paste** 🚀
 
-1. Click template file
+1. Click on any template link above
 2. Click "Raw" button
-3. Select all (`Ctrl+A`)
-4. Copy (`Ctrl+C`)
-5. Create your profile repo
-6. Paste and customize
-7. Save and commit!
+3. Select all (`Ctrl+A` / `Cmd+A`)
+4. Copy (`Ctrl+C` / `Cmd+C`)
+5. Paste in your README.md
+6. Replace placeholder text
 
 </td>
 <td>
 
-**For Developers - Using Terminal**
+### **Option 2: Download & Edit** 📥
 
-```bash
-# Clone repository
-git clone https://github.com/Lord-shaban/GitHub-Profile-README-Templates.git
-
-# Navigate to folder
-cd GitHub-Profile-README-Templates
-
-# Copy template
-cp README5.md ~/username/README.md
-
-# Edit and push
-git add .
-git commit -m "✨ Add profile"
-git push
-```
+1. Download the template file
+2. Open in your favorite editor
+3. Customize the content
+4. Save as README.md
+5. Upload to your profile repo
+6. Commit and push
 
 </td>
-  </tr>
+</tr>
 </table>
 
-## 🛠️ Customization Guide
+---
+
+## 💡 **Customization Guide**
 
 <div align="center">
-  
-### **Make It Yours in Minutes**
+
+### **🎯 Essential Elements to Customize**
 
 </div>
 
-### 📝 What to Replace:
+| Element | What to Change | Example |
+|:---|:---|:---|
+| **👤 Name** | Replace `[Your Name]` | `John Doe` |
+| **📧 Contact** | Add your email/social links | `john@example.com` |
+| **🛠️ Skills** | List your technologies | `Python, React, AWS` |
+| **📊 Stats** | Change username in URLs | `yourusername` → `johnDoe` |
+| **🏆 Projects** | Add your best repositories | Your top 3-6 projects |
+| **🎯 Goals** | Current learning/working | What you're focusing on |
+
+### **🎨 Popular Customization Tools**
+
+<div align="center">
+
+| Tool | Purpose | Link |
+|:---:|:---|:---:|
+| 📊 | **GitHub Stats Card** | [Visit →](https://github.com/anuraghazra/github-readme-stats) |
+| 🏆 | **GitHub Trophies** | [Visit →](https://github.com/ryo-ma/github-profile-trophy) |
+| ⚡ | **GitHub Streak Stats** | [Visit →](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| 🎭 | **Shields.io Badges** | [Visit →](https://shields.io/) |
+| ✍️ | **Typing Animation** | [Visit →](https://readme-typing-svg.herokuapp.com/) |
+| 📈 | **Activity Graph** | [Visit →](https://github.com/Ashutosh00710/github-readme-activity-graph) |
+
+</div>
+
+---
+
+## 📖 **Helpful Resources**
+
+<div align="center">
+
+### **Learn More About GitHub Profiles**
+
+| Resource | Description |
+|:---|:---|
+| 📚 **[GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)** | Official documentation |
+| 🎥 **[Video Tutorial](https://www.youtube.com/results?search_query=github+profile+readme)** | Step-by-step video guides |
+| 💻 **[Markdown Guide](https://www.markdownguide.org/)** | Learn Markdown syntax |
+| 🎨 **[GitHub Profile Examples](https://github.com/abhisheknaiidu/awesome-github-profile-readme)** | Get inspired by others |
+
+</div>
+
+---
+
+## 🤝 **Contributing**
+
+<div align="center">
+
+### **Want to Add Your Own Template?**
+
+We love contributions! Here's how you can help:
+
+</div>
+
+1. **Fork** this repository
+2. **Create** a new file (README13.md, README14.md, etc.)
+3. **Design** your awesome template
+4. **Submit** a pull request
+
+<div align="center">
+
+**All contributors will be featured below! 🌟**
+
+</div>
+
+---
+
+## 📊 **Repository Stats**
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="33%">
-      
-**🔤 Text Content**
-- Your Name
-- Job Title
-- Bio/About
-- Location
-- Interests
-
+<tr>
+<td align="center">
+<b>📁 Total Templates</b><br/>
+<img src="https://img.shields.io/badge/12-Templates-blue?style=for-the-badge"/>
 </td>
-<td width="33%">
-
-**🔗 Links**
-- GitHub username
-- Social media URLs
-- Portfolio website
-- Email address
-- Blog/Medium
-
+<td align="center">
+<b>⭐ Stars</b><br/>
+<img src="https://img.shields.io/github/stars/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&color=yellow"/>
 </td>
-<td width="34%">
-
-**🎨 Visuals**
-- Profile image
-- Banner image
-- Color themes
-- Badge styles
-- Icons
-
+<td align="center">
+<b>🍴 Forks</b><br/>
+<img src="https://img.shields.io/github/forks/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&color=blue"/>
 </td>
-  </tr>
+<td align="center">
+<b>👁️ Watchers</b><br/>
+<img src="https://img.shields.io/github/watchers/Lord-shaban/awesome-profile-readme-templates?style=for-the-badge&color=green"/>
+</td>
+</tr>
 </table>
 
-### 🎨 Theme Customization:
-
-<details>
-<summary><b>📊 GitHub Stats Themes</b></summary>
-
-Change the `theme` parameter in stats cards:
-
-```markdown
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=THEME_NAME)
-```
-
-**Popular Themes:**
-- `radical` - Vibrant pink/blue
-- `dark` - Dark mode
-- `gruvbox` - Retro orange
-- `tokyonight` - Purple/blue
-- `dracula` - Dark purple
-- `synthwave` - Retro wave
-- `cobalt` - Deep blue
-- `onedark` - Atom inspired
-
-</details>
-
-<details>
-<summary><b>🏆 Trophy Themes</b></summary>
-
-```markdown
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=THEME_NAME)]
-```
-
-**Available Themes:**
-- `onedark`
-- `gruvbox`
-- `dracula`
-- `monokai`
-- `chalk`
-- `nord`
-
-</details>
-
-## 🧰 Tools
-
-<div align="center">
-  
-### **Essential Tools for Amazing Profiles**
-
 </div>
 
-### 🎨 **Profile Generators**
+---
 
-| Tool | Description | Link |
-|------|-------------|------|
-| **Profile Generator** | Complete GUI generator | [Visit →](https://rahuldkjain.github.io/gh-profile-readme-generator/) |
-| **Readme.so** | Beautiful editor | [Visit →](https://readme.so/) |
-| **ProfileMe** | Easy customization | [Visit →](https://www.profileme.dev/) |
-
-### 📊 **Stats & Badges**
-
-| Tool | Description | Link |
-|------|-------------|------|
-| **GitHub Stats** | Activity statistics | [Visit →](https://github.com/anuraghazra/github-readme-stats) |
-| **Shields.io** | Custom badges | [Visit →](https://shields.io/) |
-| **Streak Stats** | Contribution streaks | [Visit →](https://github.com/DenverCoder1/github-readme-streak-stats) |
-| **Trophy** | Achievement trophies | [Visit →](https://github.com/ryo-ma/github-profile-trophy) |
-
-### 🎬 **Animations**
-
-| Tool | Description | Link |
-|------|-------------|------|
-| **Typing SVG** | Animated typing | [Visit →](https://readme-typing-svg.herokuapp.com/) |
-| **Snake Game** | Contribution snake | [Visit →](https://github.com/Platane/snk) |
-| **Activity Graph** | Contribution graph | [Visit →](https://github.com/Ashutosh00710/github-readme-activity-graph) |
-
-### 🎯 **Icons & Images**
-
-| Tool | Description | Link |
-|------|-------------|------|
-| **Skill Icons** | Tech stack icons | [Visit →](https://skillicons.dev/) |
-| **DevIcons** | Developer icons | [Visit →](https://devicon.dev/) |
-| **Simple Icons** | Brand icons | [Visit →](https://simpleicons.org/) |
-
-## 💡 Pro Tips
+## 🙏 **Support This Project**
 
 <div align="center">
-  
-### **Level Up Your Profile Game**
 
-</div>
+### **If this helped you, please:**
 
 <table>
-  <tr>
-    <td width="50%">
-      
-### ✅ **DO's**
-
-- ✨ Keep it concise and focused
-- 🎨 Use consistent color scheme
-- 📱 Test on mobile devices
-- 🔗 Include contact information
-- 📊 Show real statistics
-- 🆕 Update regularly
-- 🎯 Highlight best projects
-- 📝 Use proper grammar
-
+<tr>
+<td align="center">
+<h3>⭐ Star this repo</h3>
+<p>Show your support</p>
 </td>
-<td width="50%">
-
-### ❌ **DON'Ts**
-
-- 🚫 Don't use too many GIFs
-- 🚫 Avoid walls of text
-- 🚫 Don't leave broken links
-- 🚫 Avoid inconsistent styling
-- 🚫 Don't share sensitive info
-- 🚫 Avoid offensive content
-- 🚫 Don't copy without credit
-- 🚫 Avoid outdated information
-
+<td align="center">
+<h3>🍴 Fork it</h3>
+<p>Create your version</p>
 </td>
-  </tr>
+<td align="center">
+<h3>🐛 Report issues</h3>
+<p>Help us improve</p>
+</td>
+<td align="center">
+<h3>📢 Share it</h3>
+<p>Tell your friends</p>
+</td>
+</tr>
 </table>
 
-## 🤝 Contributing
-
-<div align="center">
-  
-### **Help Us Grow This Collection!**
-
-We welcome contributions of all kinds! Here's how you can help:
-
 </div>
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      
-**🆕 Add Templates**
+---
 
-Submit your creative templates via Pull Request
-
-</td>
-<td width="33%" align="center">
-
-**🐛 Report Issues**
-
-Found a bug? Open an issue to let us know
-
-</td>
-<td width="34%" align="center">
-
-**⭐ Star & Share**
-
-Give us a star and share with friends!
-
-</td>
-  </tr>
-</table>
-
-### How to Contribute:
-
-```bash
-1. Fork the repository
-2. Create your branch: git checkout -b new-template
-3. Add your template: README13.md
-4. Commit changes: git commit -m '✨ Add new template'
-5. Push to branch: git push origin new-template
-6. Open Pull Request
-```
-
-## 💖 Support
+## 📄 **License**
 
 <div align="center">
-  
-### **If This Helped You, Consider Supporting**
 
-<a href="https://github.com/Lord-shaban/GitHub-Profile-README-Templates">
-  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&logo=github" alt="Star">
-</a>
-
-<a href="https://github.com/Lord-shaban/GitHub-Profile-README-Templates/fork">
-  <img src="https://img.shields.io/badge/🍴_Fork_This_Repo-blue?style=for-the-badge&logo=github" alt="Fork">
-</a>
-
-<a href="https://github.com/Lord-shaban">
-  <img src="https://img.shields.io/badge/👤_Follow_Me-green?style=for-the-badge&logo=github" alt="Follow">
-</a>
-
-### **Every star ⭐ motivates us to add more templates!**
-
-</div>
-
-## 📞 Connect
-
-<div align="center">
-  
-### **Let's Connect and Build Together**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lord--shaban-181717?style=for-the-badge&logo=github)](https://github.com/Lord-shaban)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lordshaban)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/lordshaban)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:contact@lordshaban.com)
-
-</div>
-
-## 📄 License
-
-<div align="center">
-  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-You're free to use, modify, and distribute these templates!
+**Free to use for personal and commercial projects!**
+
+</div>
+
+---
+
+## 📬 **Contact**
+
+<div align="center">
+
+### **Created & Maintained by Lord-shaban**
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Lord--shaban-black?style=for-the-badge&logo=github)](https://github.com/Lord-shaban)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+<br/>
+
+### **Found this useful? Give it a ⭐!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
+
+<br/>
+
+**Thank you for visiting! Happy coding! 🚀**
 
 </div>
 
 ---
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer" />
 
-**Made with ❤️ by [Lord-shaban](https://github.com/Lord-shaban)**
-
-### [⬆ Back to Top](#-awesome-github-profile-readme-templates)
+**[⬆ Back to Top](#-github-profile-readme-templates-)**
 
 </div>
