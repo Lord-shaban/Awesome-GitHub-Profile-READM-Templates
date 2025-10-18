@@ -350,7 +350,7 @@ print(me.say_hi())
 ## 📈 REAL-TIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-```text
+
 💻 This Week I Coded:
 
 Flutter         ████████████████░░░░  75.8%  18 hrs 32 mins
@@ -365,7 +365,7 @@ PHP             18.3% █████░░░░░░░░░
 Python          15.7% ████░░░░░░░░░░
 JavaScript      12.1% ███░░░░░░░░░░░
 Others           8.7% ██░░░░░░░░░░░░
-```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
@@ -536,7 +536,6 @@ Others           8.7% ██░░░░░░░░░░░░
 
 <div align="center">
 
-```javascript
 const funFacts = {
     "🧠": "I dream in code and wake up with solutions",
     "☕": "My code runs on coffee: 5 cups = 1000 lines",
@@ -551,7 +550,7 @@ const funFacts = {
 };
 
 console.log("Discovering Ahmed:", funFacts);
-```
+
 
 </div>
 
@@ -595,4 +594,4 @@ console.log("Discovering Ahmed:", funFacts);
   ### Last Updated: 2024
   
 </div>
-```
+
