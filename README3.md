@@ -1,4 +1,3 @@
-
 <!-- Ultimate Animated Header with 3D Effects -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=Ahmed%20Sha'ban&fontSize=100&animation=scaleIn&fontAlignY=35&desc=🌟%20Elite%20Software%20Architect%20|%20AI%20Innovator%20|%20Tech%20Visionary%20🌟&descAlignY=55&descAlign=50&stroke=ffffff&strokeWidth=3" />
@@ -74,7 +73,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
 
-
+```python
 class AhmedShaban:
     def __init__(self):
         self.name = "Ahmed Sha'ban"
@@ -102,7 +101,7 @@ class AhmedShaban:
         return "while alive: code() && innovate() && inspire()"
 
 me = AhmedShaban()
-
+```
 
 </td>
 </tr>
@@ -255,6 +254,7 @@ me = AhmedShaban()
 
 <div align="center">
 
+```mermaid
 graph TD
     A[Ahmed Sha'ban] --> B[Frontend Development]
     A --> C[Backend Development]
@@ -281,6 +281,7 @@ graph TD
     F --> F1[AWS/GCP/Azure]
     F --> F2[Docker/K8s]
     F --> F3[CI/CD Pipelines]
+```
 
 </div>
 
